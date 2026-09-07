@@ -1,6 +1,6 @@
 # Hi, I'm Anand Kumar 👋
 
-### Aspiring Software Engineer | Power BI & Excel Enthusiast | Data & Technology
+### Aspiring Software Engineer | C++ & Python | Power BI & Excel | Data & Technology
 
 I'm an aspiring Software Engineer with an interest in software development, data analysis, and business intelligence. I enjoy building practical projects and learning technologies that help turn data into meaningful insights.
 
