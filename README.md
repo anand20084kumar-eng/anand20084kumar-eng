@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Anand Kumar 👋
 
-<!--
-**anand20084kumar-eng/anand20084kumar-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Engineer | Power BI & Excel Enthusiast | Data & Technology
 
-Here are some ideas to get you started:
+I'm an aspiring Software Engineer with an interest in software development, data analysis, and business intelligence. I enjoy building practical projects and learning technologies that help turn data into meaningful insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Technologies
+
+- 💻 C++
+- 🐍 Python
+- 📊 Microsoft Power BI
+- 📈 Microsoft Excel
+- 🔄 Power Query
+- 🧮 DAX
+- 📉 Data Analysis
+- 📊 Data Visualization
+
+---
+
+## 🚀 Featured Project
+
+### 📱 Mobile Sales Dashboard – Power BI
+
+An interactive Power BI dashboard developed to analyze mobile sales performance, customer trends, and key business insights.
+
+**Tools used:** Microsoft Power BI, Power Query, DAX, Data Visualization & Data Analysis
+
+---
+
+## 🎯 Currently Learning
+
+- Software Development
+- Data Analytics
+- Business Intelligence
+- Problem Solving
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: [Anand Gupta](https://www.linkedin.com/in/anandgupta0809)
+
+---
+
+⭐ Feel free to explore my repositories and projects!
